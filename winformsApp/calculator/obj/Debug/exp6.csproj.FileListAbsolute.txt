@@ -1,0 +1,11 @@
+C:\Users\safva\source\repos\exprn2\exp6\bin\Debug\exp6.exe.config
+C:\Users\safva\source\repos\exprn2\exp6\bin\Debug\exp6.exe
+C:\Users\safva\source\repos\exprn2\exp6\bin\Debug\exp6.pdb
+C:\Users\safva\source\repos\exprn2\exp6\obj\Debug\exp6.csproj.AssemblyReference.cache
+C:\Users\safva\source\repos\exprn2\exp6\obj\Debug\exp6.csproj.SuggestedBindingRedirects.cache
+C:\Users\safva\source\repos\exprn2\exp6\obj\Debug\exp6.Form1.resources
+C:\Users\safva\source\repos\exprn2\exp6\obj\Debug\exp6.Properties.Resources.resources
+C:\Users\safva\source\repos\exprn2\exp6\obj\Debug\exp6.csproj.GenerateResource.cache
+C:\Users\safva\source\repos\exprn2\exp6\obj\Debug\exp6.csproj.CoreCompileInputs.cache
+C:\Users\safva\source\repos\exprn2\exp6\obj\Debug\exp6.exe
+C:\Users\safva\source\repos\exprn2\exp6\obj\Debug\exp6.pdb
